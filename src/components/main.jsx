@@ -5,10 +5,13 @@ function Main() {
   return (
     <div>
       <Container>
-        <div className="main">
-          <h1>Trio &#128075; Nugroho</h1>
-          <h1>&#128187; Web Developer &#128184;</h1>
-          <h1>From Bekasi &#127969;</h1>
+        <div className="main text-center">
+          <h1 className="main-text">Trio Nugroho</h1>
+          <h1 className="main-text">Web Developer</h1>
+          <p>I am College Student. A person who can easily adapt to new environment, work as a team, <br />social communicate and have a passion in technology and industry itself.</p>
+        </div>
+        <div className="text-end">
+          <a href='#projects' className="btn btn-primary mt-5 ">Enter Projects</a>
         </div>
       </Container>
     </div>

@@ -16,5 +16,14 @@ a.nav-link:first-of-type {
 }
 
 .main {
-  margin-top: 50px;
+  margin-top: 80px;
+}
+
+.main-text {
+  font-size: 100px;
+  font-weight: 600;
+}
+
+#projects {
+  margin-top: 150px;
 }
